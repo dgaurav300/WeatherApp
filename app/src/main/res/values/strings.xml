@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="location">Location</string>
+    <string name="status">Clear Sky</string>
+    <string name="temp">24°C</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="max_temp">Max Temp</string>
+</resources>
